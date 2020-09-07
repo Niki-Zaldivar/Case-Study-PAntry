@@ -1,2 +1,2 @@
-# Case-Study-PAntry
-pantry Case Study
+# casestudy2
+second try only bootstrap elements
